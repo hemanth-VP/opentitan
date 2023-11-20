@@ -40,3 +40,4 @@ tab_character = true
 unique0_keyword = false
 unique_keyword = false
 wire_reg = true
+if_with_begin_end = true
